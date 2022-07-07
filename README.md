@@ -1,4 +1,4 @@
-## Calculadora👋
+## Calculadora
 #### Este projeto foi desenvolvido por Gustavo Lopes, aplicando HTML, CSS e JavaScript.
 #
 ### 
